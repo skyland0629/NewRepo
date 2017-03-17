@@ -13,7 +13,19 @@ namespace ConsoleApplication35
         public int kor;
         public int lepes;*/
 
-        public TréMedve(int sorszam, int sebesseg, int kor, int lepes) : base(sorszam, sebesseg, kor, lepes)
+        public TréMedve
+            (
+            int sorszam,
+            int sebesseg,
+            int kor,
+            int lepes
+            ) : base
+            (
+                sorszam,
+                sebesseg,
+                kor,
+                lepes
+                )
         {
             this.sorszam = sorszam;
             this.sebesseg = sebesseg;

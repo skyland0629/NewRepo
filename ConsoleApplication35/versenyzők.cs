@@ -13,7 +13,13 @@ namespace ConsoleApplication35
         public int lepes; //1 lépés = 1 kör
         
 
-        public versenyzők(int sorszam, int sebesseg, int kor, int lepes)
+        public versenyzők
+            (
+            int sorszam,
+            int sebesseg,
+            int kor,
+            int lepes
+            )
         {
             this.sorszam = sorszam;
             this.sebesseg = sebesseg;
