@@ -10,6 +10,9 @@ namespace ConsoleApplication35
     {
         static void Main(string[] args)
         {
+            
+            Console.WriteLine();
+            Console.ReadKey();
         }
     }
 }

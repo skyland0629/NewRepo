@@ -10,7 +10,7 @@
   <Class Name="ConsoleApplication35.Masnapos_szocske">
     <Position X="6" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
       <FileName>Masnapos_szocske.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -31,14 +31,14 @@
   <Class Name="ConsoleApplication35.TréMedve">
     <Position X="2.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAACAAAAAAAAAA=</HashCode>
       <FileName>TréMedve.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="ConsoleApplication35.Barna_a_medve">
     <Position X="4.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Barna_a_medve.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -57,9 +57,9 @@
     </TypeIdentifier>
   </Class>
   <Class Name="ConsoleApplication35.versenyzők">
-    <Position X="3" Y="2" Width="1.5" />
+    <Position X="3" Y="2.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAIAAQAAAAgAAAAAAAAAAABAAA=</HashCode>
+      <HashCode>QAAAAAAIAAAAAAAAAAAIAAUAAAAgAAAAAAAAAAABAAA=</HashCode>
       <FileName>versenyzők.cs</FileName>
     </TypeIdentifier>
   </Class>
