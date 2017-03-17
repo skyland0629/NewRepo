@@ -7,5 +7,6 @@ namespace ConsoleApplication35
 {
     public class Masnapos_szocske : versenyzők
     {
+        private int bokor;
     }
 }
